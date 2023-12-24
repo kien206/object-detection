@@ -1,4 +1,4 @@
-# object-detection
+# Object Detection
 
 2023.1 Introduction to Deep Learning Capstone Project
 
