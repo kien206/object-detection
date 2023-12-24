@@ -1,16 +1,7 @@
 # Object Detection
 
-2023.1 Introduction to Deep Learning Capstone Project.
-
-This repository contains the training process for each model in the project.
-
-## Requirements
-
-If you are new, please run the following command:
-
-```sh
-pip install -r requirements.txt
-```
+2023.1 Introduction to Deep Learning Capstone Project
+This repository contains the process of training for each model in the project.
 
 ## Dataset
 COCO minitrain is a subset of the original COCO dataset, and contains 25K images (about 20\% of the original set) and around 184K annotations across 80 object categories. We randomly sampled these images from the full set while preserving the following three quantities as much as possible: proportion of object instances from each class; overall ratios of small, medium and large objects; per class ratios of small, medium and large objects.
