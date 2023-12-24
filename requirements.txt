@@ -1,0 +1,6 @@
+torch
+torchvision
+ultralytics
+cv2
+PIL
+ruamel

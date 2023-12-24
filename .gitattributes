@@ -1,0 +1,2 @@
+path/to/large/file.ext filter=lfs diff=lfs merge=lfs -text
+G:/HUST/DL/object-detection/instances_minitrain2017.json filter=lfs diff=lfs merge=lfs -text
