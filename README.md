@@ -1,6 +1,7 @@
 # Object Detection
 
-2023.1 Introduction to Deep Learning Capstone Project
+2023.1 Introduction to Deep Learning Capstone Project.
+
 This repository contains the process of training for each model in the project.
 
 ## Dataset
